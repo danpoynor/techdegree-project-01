@@ -132,7 +132,7 @@ header {
   color: #0399ff;
   font-size: 1.6em;
   font-weight: 300;
-  margin: 0 0 0.5em;
+  margin: 0 0 0.33em;
 }
 
 .card a {
@@ -236,6 +236,35 @@ a.portfolio {
 }
 a.email {
   background-image: url(images/email.svg);
+}
+
+.icon {
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: inline-block;
+  height: 1em;
+  margin-bottom: -.125em;
+  margin-right: .25em;
+  width: 1.2em;
+}
+
+.icon-background {
+  background-image: url(images/icon-bg.svg);
+}
+.icon-goals {
+  background-image: url(images/icon-goals.svg);
+}
+.icon-design {
+  background-image: url(images/icon-design.svg);
+}
+.icon-develop {
+  background-image: url(images/icon-develop.svg);
+}
+.icon-certs {
+  background-image: url(images/icon-certs.svg);
+}
+.icon-info {
+  background-image: url(images/icon-info.svg);
 }
 
 .clearfix {
