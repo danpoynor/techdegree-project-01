@@ -231,8 +231,11 @@ a.linkedin {
 a.github {
   background-image: url(images/github.svg);
 }
-a.other {
-  background-image: url(images/github.svg);
+a.portfolio {
+  background-image: url(images/eye.svg);
+}
+a.email {
+  background-image: url(images/email.svg);
 }
 
 .clearfix {
